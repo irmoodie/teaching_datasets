@@ -1,4 +1,4 @@
-species,population,plant_height_cm,corolla_area_mm2,spur_length_mm,first_flower_day,flowers,fruits,mean_fruit_mass
+species,population,plant_height_cm,corolla_area_mm2,spur_length_mm,first_flower_day,flowers,fruits,mean_fruit_mass_mg
 conopsea,graborg_c,29,70.679,15.28,162,40,34,13.1979451
 conopsea,graborg_c,25,102.1796,16.85,161,29,13,11.92047065
 conopsea,graborg_c,30.4,113.8021,18.77,162,51,42,13.88644736

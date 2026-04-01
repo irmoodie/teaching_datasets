@@ -18,7 +18,7 @@ clean_data <-
     first_flower_day = date_fl,
     flowers = nb_fl,
     fruits = nb_fr,
-    mean_fruit_mass = FM
+    mean_fruit_mass_mg = FM
   ) |>
   mutate(
     first_flower_day = yday(as.Date(first_flower_day, origin = "1899-12-30"))
